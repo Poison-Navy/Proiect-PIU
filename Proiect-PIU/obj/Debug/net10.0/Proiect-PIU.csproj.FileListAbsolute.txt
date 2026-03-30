@@ -1,0 +1,14 @@
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\obj\Debug\net10.0\Proiect-PIU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\obj\Debug\net10.0\Proiect-PIU.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\obj\Debug\net10.0\Proiect-PIU.AssemblyInfo.cs
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\obj\Debug\net10.0\Proiect-PIU.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\bin\Debug\net10.0\Proiect-PIU.exe
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\bin\Debug\net10.0\Proiect-PIU.deps.json
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\bin\Debug\net10.0\Proiect-PIU.runtimeconfig.json
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\bin\Debug\net10.0\Proiect-PIU.dll
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\bin\Debug\net10.0\Proiect-PIU.pdb
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\obj\Debug\net10.0\Proiect-PIU.dll
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\obj\Debug\net10.0\refint\Proiect-PIU.dll
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\obj\Debug\net10.0\Proiect-PIU.pdb
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\obj\Debug\net10.0\Proiect-PIU.genruntimeconfig.cache
+C:\Users\Leo\Desktop\VStudio\Proiect-PIU\Proiect-PIU\obj\Debug\net10.0\ref\Proiect-PIU.dll
